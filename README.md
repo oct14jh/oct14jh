@@ -3,7 +3,7 @@
 
 
 <p align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foct14jh&count_bg=%2353B0AE&title_bg=%23555555&icon=&icon_color=%2353B0AE&title=Git_hits&edge_flat=false"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?v=0bc64400235e4bdc930d323452416f6b&url=https%3A%2F%2Fwww.notion.so%2Foct14jh%2Fa219e10f67f34016899f3cb5e71ac65e&count_bg=%238A9090&title_bg=%23555555&icon=&icon_color=%2353B0AE&title=Notion_hits&edge_flat=false"/></a>
+<a href="https://github.com/oct14jh"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foct14jh&count_bg=%2353B0AE&title_bg=%23555555&icon=&icon_color=%2353B0AE&title=Git_hits&edge_flat=false"/></a> <a href="https://www.notion.so/oct14jh/a219e10f67f34016899f3cb5e71ac65e?v=0bc64400235e4bdc930d323452416f6b"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?v=0bc64400235e4bdc930d323452416f6b&url=https%3A%2F%2Fwww.notion.so%2Foct14jh%2Fa219e10f67f34016899f3cb5e71ac65e&count_bg=%238A9090&title_bg=%23555555&icon=&icon_color=%2353B0AE&title=Notion_hits&edge_flat=false"/></a>
 </p>
 
 
