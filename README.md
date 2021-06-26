@@ -15,27 +15,31 @@ I want to do something valuable, such as providing better service to customers. 
 
 <br></br>
 ## 👨‍🎓 Education
-- **Bachelor of Science in Computer Engineering**, Yeungnam University (2013.03 - 2020.02)
 - **Samsung Software Academy For Youth**, 4th (2020.07 - 2021.06)
+- **Bachelor of Science in Computer Engineering**, Yeungnam University (2013.03 - 2020.02)
+
 
 
 <br></br>
 ## 🎬 Project
-- <Strong>Haggle-Credit</Strong> 🛒 E-commerce web service (Auction based used trading platform)
-- <Strong>SAYE (Sing About Your Emotion)</Strong> 🎵 Music recommendation web service based on sentiment analysis
-- <Strong>Let's Meet</strong> 🤝 Reasonable and optimal appointment place recommendation web app service
-- <strong>Happy House</strong> 🏠 A web service that looks up real estate sales information for investors
-- <strong>V.B (Vibration Band)</strong> 🧏‍♂ Sound Vibration Band and Android App Service for the Deaf 
-- <strong>Weather Wear</strong> 👕Real-time Weather-based Daily Look Recommendation Android App
+- <a href="https://www.notion.so/oct14jh/Haggle-Credit-2e385b5c1fc049f3a7b31a6b743e733c"><Strong>Haggle-Credit</Strong> 🛒 E-commerce web service (Auction based used trading platform)</a>
+- <a href="https://www.notion.so/oct14jh/SAYE-Sing-About-Your-Emotion-2a088e9269d948aba02e337a777ced5b"><Strong>SAYE (Sing About Your Emotion)</Strong> 🎵 Music recommendation web service based on sentiment analysis</a>
+- <a href="https://www.notion.so/oct14jh/Let-s-Meet-065207c28dd643a287dce90273e697b1"><Strong>Let's Meet</strong> 🤝 Reasonable and optimal appointment place recommendation web app service</a>
+- <a href="https://www.notion.so/oct14jh/Happy-House-c78f972eb79c4c4ea408e9fc5cdfc3c1"><strong>Happy House</strong> 🏠 A web service that looks up real estate sales information for investors</a>
+- <a href="https://www.notion.so/oct14jh/V-B-Vibration-Band-e0e019a2549b40258dda0bbfb8f2e30c"><strong>V.B (Vibration Band)</strong> 🧏‍♂ Sound Vibration Band and Android App Service for the Deaf</a> 
+- <a href="https://www.notion.so/oct14jh/Weather-Wear-f374f15b58d445b3a82d47073f1aca3c" ><strong>Weather Wear</strong> 👕Real-time Weather-based Daily Look Recommendation Android App</a>
 
 
 
 <br></br>
 ## 🏆 Award
-- 2018.05 | YU SVC Start-up Item Competition - <Strong>College Chancellor Award (3rd)</Strong>
-- 2019.06 | Citizen Participation Smart City Idea Contest - <Strong>Daegu Mayor Award (1st)</Strong>
-- 2020.11 | Samsung Software Academy Web Project - <Strong>Samsung Electronics Award (1st)</Strong> 
 - 2021.04 | Samsung Software Academy Bigdata Project - <Strong>Samsung Electronics Award (1st)</Strong>
+- 2020.11 | Samsung Software Academy Web Project - <Strong>Samsung Electronics Award (1st)</Strong>
+- 2019.06 | Citizen Participation Smart City Idea Contest - <Strong>Daegu Mayor Award (1st)</Strong>
+- 2018.05 | YU SVC Start-up Item Competition - <Strong>College Chancellor Award (3rd)</Strong>
+
+ 
+
 
 
 
