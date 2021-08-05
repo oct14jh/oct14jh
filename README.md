@@ -11,7 +11,9 @@
 Hi, I'm **Backend Engineer**, Jeehyun-Kim.
 I want to do something valuable, such as providing better service to customers. Especially, I will be a backend developer who supports clients' convenience like an invisible hero. Please keep an eye on me growing through 'Github', 'Notion' and so on. Thank you.
 
-
+<br></br>
+## 🏢 Career
+- **Amkor Technology Korea**, Manufacturing Support Part in IT Team (2021.08 - Now)
 
 <br></br>
 ## 👨‍🎓 Education
