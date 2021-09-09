@@ -44,15 +44,6 @@ I want to do something valuable, such as providing better service to customers. 
 
 
 
-
-<br></br>
-## 👨‍💻 Algorithm
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=khyun7621)](https://solved.ac/profile/khyun7621)
-
-
-
 <br></br>
 ## 📚 GitHub Stats
 ![김지현 GitHub stats](https://github-readme-stats.vercel.app/api?username=oct14jh&show_icons=true&theme=tokyonight)
