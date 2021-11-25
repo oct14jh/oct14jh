@@ -24,12 +24,12 @@ I want to do something valuable, such as providing better service to customers. 
 
 <br></br>
 ## 🎬 Project
-- <a href="https://www.notion.so/oct14jh/Haggle-Credit-2e385b5c1fc049f3a7b31a6b743e733c" target="_blank"><Strong>Haggle-Credit</Strong> 🛒 E-commerce web service (Auction based used trading platform)</a>
-- <a href="https://www.notion.so/oct14jh/SAYE-Sing-About-Your-Emotion-2a088e9269d948aba02e337a777ced5b" target="_blank"><Strong>SAYE (Sing About Your Emotion)</Strong> 🎵 Music recommendation web service based on sentiment analysis</a>
-- <a href="https://www.notion.so/oct14jh/Let-s-Meet-065207c28dd643a287dce90273e697b1" target="_blank"><Strong>Let's Meet</strong> 🤝 Reasonable and optimal appointment place recommendation web app service</a>
-- <a href="https://www.notion.so/oct14jh/Happy-House-c78f972eb79c4c4ea408e9fc5cdfc3c1" target="_blank"><strong>Happy House</strong> 🏠 A web service that looks up real estate sales information for investors</a>
-- <a href="https://www.notion.so/oct14jh/V-B-Vibration-Band-e0e019a2549b40258dda0bbfb8f2e30c" target="_blank"><strong>V.B (Vibration Band)</strong> 🧏‍♂ Sound Vibration Band and Android App Service for the Deaf</a> 
-- <a href="https://www.notion.so/oct14jh/Weather-Wear-f374f15b58d445b3a82d47073f1aca3c" target="_blank"><strong>Weather Wear</strong> 👕Real-time Weather-based Daily Look Recommendation Android App</a>
+- <a href="https://www.oct14jh.com/develop/project/haggle-credit" target="_blank"><Strong>Haggle-Credit</Strong> 🛒 E-commerce web service (Auction based used trading platform)</a>
+- <a href="https://www.oct14jh.com/develop/project/saye" target="_blank"><Strong>SAYE (Sing About Your Emotion)</Strong> 🎵 Music recommendation web service based on sentiment analysis</a>
+- <a href="https://www.oct14jh.com/develop/project/letsmeet" target="_blank"><Strong>Let's Meet</strong> 🤝 Reasonable and optimal appointment place recommendation web app service</a>
+- <a href="https://www.oct14jh.com/develop/project/happyhouse" target="_blank"><strong>Happy House</strong> 🏠 A web service that looks up real estate sales information for investors</a>
+- <a href="https://www.oct14jh.com/develop/project/vibration_band" target="_blank"><strong>V.B (Vibration Band)</strong> 🧏‍♂ Sound Vibration Band and Android App Service for the Deaf</a> 
+- <a href="https://www.oct14jh.com/develop/project/weather_wear" target="_blank"><strong>Weather Wear</strong> 👕Real-time Weather-based Daily Look Recommendation Android App</a>
 
 
 
