@@ -14,6 +14,7 @@ I want to do something valuable, such as providing better service to customers. 
 <br></br>
 ## 🏢 Career
 - **Amkor Technology Korea Corp. IT Team - Manufacturing Support Part** (2021.08 - Now)
+     Dev Part : eMES System, ATK Web
 
 <br></br>
 ## 👨‍🎓 Education
