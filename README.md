@@ -1,12 +1,13 @@
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foct14jh&count_bg=%23FC8934&title_bg=%23FE2323&icon=&icon_color=%23E7E7E7&title=Git&edge_flat=false"/></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.oct14jh.com&count_bg=%230FE78E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BLOG&edge_flat=false"/></a>
+</p>
 <a href="https://www.oct14jh.com"><img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4273fa41-4fbd-43e2-ae9d-9708741e72d5%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-02-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.06.09.png&blockId=aeafe220-6153-4c95-bbb6-d945954dc249&width=3600"/></a>
 <p align="center">
  <h2 align="center">⬆️⬆️⬆️Click On the Banner⬆️⬆️⬆️</h2>
 </p>
 
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foct14jh&count_bg=%23FC8934&title_bg=%23FE2323&icon=&icon_color=%23E7E7E7&title=Git&edge_flat=false"/></a> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.oct14jh.com&count_bg=%230FE78E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=BLOG&edge_flat=false"/></a>
-</p>
+
 
 Hi, I'm **Backend Engineer**, Jeehyun-Kim.
 I want to do something valuable, such as providing better service to customers. Especially, I will be a backend developer who supports clients' convenience like an invisible hero. Please keep an eye on me growing through 'Github', 'Notion' and so on. Thank you.
